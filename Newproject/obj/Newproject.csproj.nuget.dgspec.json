@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MyGitHub\\ToDos\\Newproject\\Newproject.csproj": {}
+    "D:\\MyGitHub\\TODos\\Newproject\\Newproject.csproj": {}
   },
   "projects": {
-    "D:\\MyGitHub\\ToDos\\Newproject\\Newproject.csproj": {
+    "D:\\MyGitHub\\TODos\\Newproject\\Newproject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyGitHub\\ToDos\\Newproject\\Newproject.csproj",
+        "projectUniqueName": "D:\\MyGitHub\\TODos\\Newproject\\Newproject.csproj",
         "projectName": "Newproject",
-        "projectPath": "D:\\MyGitHub\\ToDos\\Newproject\\Newproject.csproj",
+        "projectPath": "D:\\MyGitHub\\TODos\\Newproject\\Newproject.csproj",
         "packagesPath": "C:\\Users\\Musta\\.nuget\\packages\\",
-        "outputPath": "D:\\MyGitHub\\ToDos\\Newproject\\obj\\",
+        "outputPath": "D:\\MyGitHub\\TODos\\Newproject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
