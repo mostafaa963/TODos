@@ -1,0 +1,15 @@
+D:\MyGitHub\ToDos\Newproject\bin\Debug\net10.0\Newproject.exe
+D:\MyGitHub\ToDos\Newproject\bin\Debug\net10.0\Newproject.deps.json
+D:\MyGitHub\ToDos\Newproject\bin\Debug\net10.0\Newproject.runtimeconfig.json
+D:\MyGitHub\ToDos\Newproject\bin\Debug\net10.0\Newproject.dll
+D:\MyGitHub\ToDos\Newproject\bin\Debug\net10.0\Newproject.pdb
+D:\MyGitHub\ToDos\Newproject\obj\Debug\net10.0\Newproject.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyGitHub\ToDos\Newproject\obj\Debug\net10.0\Newproject.AssemblyInfoInputs.cache
+D:\MyGitHub\ToDos\Newproject\obj\Debug\net10.0\Newproject.AssemblyInfo.cs
+D:\MyGitHub\ToDos\Newproject\obj\Debug\net10.0\Newproject.csproj.CoreCompileInputs.cache
+D:\MyGitHub\ToDos\Newproject\obj\Debug\net10.0\Newproject.sourcelink.json
+D:\MyGitHub\ToDos\Newproject\obj\Debug\net10.0\Newproject.dll
+D:\MyGitHub\ToDos\Newproject\obj\Debug\net10.0\refint\Newproject.dll
+D:\MyGitHub\ToDos\Newproject\obj\Debug\net10.0\Newproject.pdb
+D:\MyGitHub\ToDos\Newproject\obj\Debug\net10.0\Newproject.genruntimeconfig.cache
+D:\MyGitHub\ToDos\Newproject\obj\Debug\net10.0\ref\Newproject.dll
